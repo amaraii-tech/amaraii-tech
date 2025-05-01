@@ -22,7 +22,7 @@ At **Amaraii**, we empower businesses and homes with smart, scalable, and secure
 - AI & Data: Python, Pinecone, OpenAI, Sentence Transformers
 
 ## 📫 Let's Connect
-- 🌐 [Visit Our Website](#)
+- 🌐 [Visit Our Website](https://amaraii.com)
 - ✉️ hello@amaraii.com
 - 🐦 [Twitter/X](https://twitter.com/)
 - 🔗 [LinkedIn](https://linkedin.com/)
